@@ -1,2 +1,2 @@
-# project1
+# Web Development
 Weather App 
